@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/AI_Projects/Mlflow-Chest-Test/mlruns/0/c585523d8a354593ae6ce1e4fabb7a43/artifacts
+end_time: 1731620776833
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c585523d8a354593ae6ce1e4fabb7a43
+run_name: able-ox-457
+run_uuid: c585523d8a354593ae6ce1e4fabb7a43
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731620773945
+status: 3
+tags: []
+user_id: sachi
