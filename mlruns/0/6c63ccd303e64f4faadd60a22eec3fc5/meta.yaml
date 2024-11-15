@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/AI_Projects/Mlflow-Chest-Test/mlruns/0/6c63ccd303e64f4faadd60a22eec3fc5/artifacts
+end_time: 1731698303391
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6c63ccd303e64f4faadd60a22eec3fc5
+run_name: calm-bee-526
+run_uuid: 6c63ccd303e64f4faadd60a22eec3fc5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731698301095
+status: 3
+tags: []
+user_id: sachi

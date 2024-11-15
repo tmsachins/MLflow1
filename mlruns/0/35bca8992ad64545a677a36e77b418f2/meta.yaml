@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/AI_Projects/Mlflow-Chest-Test/mlruns/0/35bca8992ad64545a677a36e77b418f2/artifacts
+end_time: 1731698313566
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 35bca8992ad64545a677a36e77b418f2
+run_name: sneaky-penguin-796
+run_uuid: 35bca8992ad64545a677a36e77b418f2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731698311283
+status: 3
+tags: []
+user_id: sachi
